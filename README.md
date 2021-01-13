@@ -12,7 +12,7 @@ I try to post almost everything I learn during this journey.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FariaJvP&theme=tokyonight&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FariaJvP&layout=compact&theme=tokyonight)](https://github.com/victorfaria1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FariaJvP&layout=compact&theme=tokyonight)](https://github.com/FariaJvP/github-readme-stats)
 
 <!--
 **victorfaria1/victorfaria1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
