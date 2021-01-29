@@ -14,7 +14,7 @@ I try to post almost everything I learn during this journey.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FariaJvP&layout=compact&theme=tokyonight)](https://github.com/FariaJvP/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=FariaJvP&theme=onedark)](https://github.com/FariaJvP/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=FariaJvP)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
