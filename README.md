@@ -22,9 +22,9 @@
 Basta entrar em contato comigo através de um dos links abaixo:<p>
 
 <div align="center">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaovitorfaria"/>
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://www.linkedin.com/in/joaovitorfaria/"/>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/jv.developer/"/>
+<a href="https://www.linkedin.com/in/joaovitorfaria/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/FariaJvP"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.instagram.com/jv.developer/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 </div>
 
@@ -45,18 +45,4 @@ Basta entrar em contato comigo através de um dos links abaixo:<p>
 ### ---| Em desenvolvimento |---
 ![Kotlin](https://img.shields.io/badge/kotlin-blueviolet?style=for-the-badge&logo=kotlin&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![prometheus](https://img.shields.io/badge/prometheus%20-%23E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white)![grafana](https://img.shields.io/badge/-GRAFANA-black?&style=for-the-badge&logo=grafana&logoColor=yellow)![KAFKA](https://img.shields.io/badge/KAFKA-red?logo=ApacheKafka&logoColor=white&style=for-the-badge)![kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?logo=kubernetes&logoColor=white&style=for-the-badge)![amazon aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-
-<!--
-**victorfaria1/victorfaria1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=FariaJvP&color=blueviolet)
