@@ -1,26 +1,33 @@
+
 ### :brazil: Olá, mundo! 👋
-Meu nome é João Vitor (mas pode me chamar de João) e sou desenvolvedor back end. 
+<div>
+<p>Meu nome é João Vitor (mas pode me chamar de João) e sou desenvolvedor back end. </p>
+
+---
 
 
-<img align="right" width="55%" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" />
+<img align="right" width="55%" src="https://camo.githubusercontent.com		/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" />
 
-Atualmente estou me graduando em Análise e Desenvolvimento de Sistemas e sou apaixonado por computadores e programação desde criança, embora só agora tenha conseguido realizar meu sonho. 
+<p>Atualmente estou me graduando em Análise e Desenvolvimento de Sistemas e sou apaixonado por computadores e programação desde criança, embora só agora tenha conseguido realizar meu sonho. </p>
 
-Gosto de ajudar as pessoas, tenho muita curiosidade e estudo incansavelmente para alcançar meus objetivos. Todo o bem que eu recebo passo adiante pois tenho certeza de que **chegar junto é melhor do que chegar sozinho!** 
+<p>Gosto de ajudar as pessoas, tenho muita curiosidade e estudo incansavelmente para alcançar meus objetivos. Todo o bem que eu recebo passo adiante pois tenho certeza de que <b>chegar junto é melhor do que chegar sozinho! </b></p>
 
-Um passo de cada vez... Um commit de cada vez...
+<p>Um passo de cada vez... Um commit de cada vez...<p>
+</div>
+<br><br>
 
-<br>
+---
 
-Interessado em colaboração? Estou preparado para qualquer projeto inspirador, será um prazer contribuir.
-Basta entrar em contato comigo através de um dos links abaixo:
+<div>
+	<p>Interessado em colaboração? Estou preparado para qualquer projeto inspirador, será um prazer contribuir.
+	Basta entrar em contato comigo através de um dos links abaixo:<p>
 
 <div align="center">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaovitorfaria"/>
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://www.linkedin.com/in/joaovitorfaria/"/>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/jv.developer/"/>
 </div>
-
+</div>
 
 <br>
 <br>
