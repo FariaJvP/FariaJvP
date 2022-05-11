@@ -7,7 +7,7 @@
 <div width="100%">
 <img align="right" width="55%" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966"/>
 
-<p>Atualmente estou me graduando em Análise e Desenvolvimento de Sistemas e sou apaixonado por computadores e programação desde criança, embora só agora tenha conseguido realizar meu sonho. </p>
+<p>Atualmente estou me graduando como Bacharel em Engenharia de Software e sou apaixonado por computadores e programação desde criança, embora só agora tenha conseguido realizar meu sonho. </p>
 
 <p>Gosto de ajudar as pessoas, tenho muita curiosidade e estudo incansavelmente para alcançar meus objetivos. Todo o bem que eu recebo passo adiante pois tenho certeza de que <b>chegar junto é melhor do que chegar sozinho! </b></p>
 
