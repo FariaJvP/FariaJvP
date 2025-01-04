@@ -1,33 +1,31 @@
 ### :brazil: Olá, mundo! 👋
 <div width="100%">
-<p>Meu nome é João Vitor (mas pode me chamar de João) e sou desenvolvedor back end. </p>
+  <p>Meu nome é João Vitor (mas pode me chamar de João). </p>
 </div>
 
 ---
-<div width="100%">
-<img align="right" width="55%" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"/>
+<div width="100%"">
+  
+  <div width="55%">
+    <img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"/>
+  </div>
+  
+  <div align="left" width="30%">
+    <p> Atualmente estou me graduando como Bacharel em Engenharia de Software e sou apaixonado por computadores e programação desde criança. Todo o bem que eu recebo passo adiante pois tenho certeza de que <b>chegar junto é
+      melhor do que chegar sozinho! </b></p>
+    <p>Um passo de cada vez... Um commit de cada vez...<p>
+      
+--- 
+  <p>Interessado em colaboração, feedback ou fazer alguma pergunta? 
+    <p> sempre um prazer ajudar!
+  <p>Entre em comigo através de um dos links abaixo:<p>
 
-<p>Atualmente estou me graduando como Bacharel em Engenharia de Software e sou apaixonado por computadores e programação desde criança, embora só agora tenha conseguido realizar meu sonho. </p>
-
-<p>Gosto de ajudar as pessoas, tenho muita curiosidade e estudo incansavelmente para alcançar meus objetivos. Todo o bem que eu recebo passo adiante pois tenho certeza de que <b>chegar junto é melhor do que chegar sozinho! </b></p>
-
-<p>Um passo de cada vez... Um commit de cada vez...<p>
-<br><br><br><br>
-</div>
-
----
-
-<div width="100%">
-<p>Interessado em colaboração? Estou preparado para qualquer projeto inspirador, será um prazer contribuir.
-Basta entrar em contato comigo através de um dos links abaixo:<p>
-
-<div align="center">
-<a href="https://www.linkedin.com/in/joaovitorfaria/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/FariaJvP"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://www.instagram.com/jv.developer/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</div>
-</div>
-
+  <br>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/joaovitorfaria/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+    <a href="https://twitter.com/FariaJvP"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
+  </div>
+  
 ---
 
 <br>
